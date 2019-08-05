@@ -10,6 +10,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     
+    background-color:#2D898B;
 
 }
 
@@ -37,7 +38,5 @@ p{
     font-size: 20pt;
     color: aliceblue;
 }
-
-
 
 
