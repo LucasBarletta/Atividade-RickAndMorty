@@ -36,6 +36,8 @@ function verificarPersonagem(){
 - Lucas Miguel
 - Pedro Furlan
 
+### Links
+
 - Link API [Clique Aqui](https://rickandmortyapi.com/api/)
 
 - Quer Jogar [Clique Aqui](https://lucasbarletta.github.io/Atividade-RickAndMorty/)
