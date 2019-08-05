@@ -38,4 +38,4 @@ function verificarPersonagem(){
 
 - Link API [Clique Aqui](https://rickandmortyapi.com/api/)
 
-- Quer Jogar [Clique Aqui]g(https://lucasbarletta.github.io/Atividade-RickAndMorty/)
+- Quer Jogar [Clique Aqui](https://lucasbarletta.github.io/Atividade-RickAndMorty/)
